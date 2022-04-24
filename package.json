@@ -1,6 +1,6 @@
 {
   "name": "@thetaversefarm/uikit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Set of UI components for thetaverse projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
